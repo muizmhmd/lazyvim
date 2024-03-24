@@ -34,6 +34,7 @@ return {
     parser_config.blade = {
       install_info = {
         url = "https://github.com/EmranMR/tree-sitter-blade",
+        branch = "main",
         files = {
           "src/parser.c",
           -- 'src/scanner.cc',
